@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rikito==============================================================================================================================Cybersecurity Student---------------------I have a deep interest in user privacy, mitigating cyber threats and contributing to a safer online environment. All of these reasons are why I am dwelling into the realm of cybersecurity.* 🌍  I'm based in New York* ✉️  You can contact me at [rikitosh@outlook.com](mailto:rikitosh@outlook.com)* 🧠  I'm learning Wireshark, Nmap, SY0-701* ⚡  I like to do food reviews on yelp
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rikito
+
+Cybersecurity Student---------------------I have a deep interest in user privacy, mitigating cyber threats and contributing to a safer online environment. All of these reasons are why I am dwelling into the realm of cybersecurity.* 🌍  I'm based in New York* ✉️  You can contact me at [rikitosh@outlook.com](mailto:rikitosh@outlook.com)* 🧠  I'm learning Wireshark, Nmap, SY0-701* ⚡  I like to do food reviews on yelp
 
 ### Skills
 
